@@ -1,17 +1,16 @@
-# UI-Application
+# PHP Discord Web Authentication
 
-So this is a project is just a UI = Application i work on with on with my dad, with some funny things, its going to be a free dll injector for GTA where you'll stil need to input a link to your cheat,
-Feel Free to use this because we'll not be using this.
+Okay so this will be making your discord authentication far more secure with your panel on your website in PHP
 
-# Features
-  - Fast Injection
-  - UI
-  - Based on the WeMod UI (Not Joinked)
+
+# Facts 
+ - It is really fast
+ - Secure
+ - Cannot be bypassed using URL Swapping
 
 
 
 # Progress
 
-- UI: 0%
-- Backend: 50%
+- Backend 4%
 - Setup: 0%
